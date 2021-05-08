@@ -1,3 +1,3 @@
 # REPOSITORIO
--Definiciones
+-Definiciones:
 -Inteligencia artificial
